@@ -1,0 +1,15 @@
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+__pycache__/
+.vscode/
+build/
+dist/
+*.egg-info/
+.coverage
+coverage.xml
+htmlcov/
+docs/
+benchmarks/.cache/
+benchmarks/results/
+scanlayer_social_preview.png
